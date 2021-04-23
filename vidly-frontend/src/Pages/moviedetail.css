@@ -1,0 +1,52 @@
+.detail__img {
+  margin: 40px;
+}
+
+.moviedetail {
+  display: flex;
+  height: 100vh;
+  width: 100%;
+  background-image: url(../img/jeremy-bishop-G9i_plbfDgk-unsplash.jpg);
+  background-size: 100% 100%;
+}
+
+.detail__info {
+  text-align: initial;
+  margin-left: 20px
+}
+
+.detail__m_name {
+    color: rgb(255, 255, 255);
+  margin-top: 30px;
+}
+
+.detail__a_title {
+  margin-top: 50px;
+  color: rgb(194, 194, 194);
+}
+
+.detail__a_description {
+    color: rgb(194, 194, 194);
+}
+
+.buttons{
+    margin-top: 40px;
+    
+}
+
+.button__fav button{
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 295px;
+}
+
+.button__rent button{
+    border-radius: 10px;
+    width: 100px;
+}
+
+.button__buy button{
+    border-radius: 10px;
+    margin-top: 20px;
+    width: 100px;
+}

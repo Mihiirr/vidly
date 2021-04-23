@@ -1,0 +1,19 @@
+.movie__container {
+  height: 500px;
+  width: 100%;
+  background-color: rgb(236, 236, 236);
+}
+
+.movie__list {
+  text-align: left;
+  margin-left: 10px;
+}
+
+.movie__list h2 {
+  padding-top: 10px;
+}
+
+.movie__cards {
+  display: flex;
+  margin: 10px;
+}

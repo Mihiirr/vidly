@@ -1,0 +1,8 @@
+.movie__card {
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.card {
+  box-shadow: 3px 3px 8px 5px #888888;
+}
